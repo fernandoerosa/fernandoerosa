@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on @Doutbx
+- 🔭 I’m currently working on @Doutbox
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about ...
 - 📫 How to reach me: fernando.rosag11@gmail.com 
