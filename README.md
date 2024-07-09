@@ -7,3 +7,6 @@
 - 🌱 I’m currently learning and work with Kubernetes
 - 📫 How to reach me: fernando.rosaink@gmail.com 
 - ⚡ Fun fact: When i saw my first code i swore i would never work with programming, and here we are today :)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
