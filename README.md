@@ -17,3 +17,4 @@ Canva Design   0 secs          ░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+Wakatime in progress, I really don't know where the languages ​​are.
