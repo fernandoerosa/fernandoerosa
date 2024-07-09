@@ -9,4 +9,11 @@
 - ⚡ Fun fact: When i saw my first code i swore i would never work with programming, and here we are today :)
 
 <!--START_SECTION:waka-->
+
+```txt
+Other          43 hrs 53 mins  ████████████████████████▓   99.20 %
+Figma Design   21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Canva Design   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
 <!--END_SECTION:waka-->
