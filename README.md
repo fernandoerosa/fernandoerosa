@@ -19,4 +19,3 @@ JSON           1 min           ░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-Wakatime in progress, I really don't know where the languages ​​are.
