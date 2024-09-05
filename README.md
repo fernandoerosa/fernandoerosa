@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/user/d5892087-17e6-46ab-8384-91a71a9b88d8.svg)](https://wakatime.com/@d5892087-17e6-46ab-8384-91a71a9b88d8)
 ### Hi there 👋
 
 #### My blog https://www.ovinitech.com.br/ - Blogger
