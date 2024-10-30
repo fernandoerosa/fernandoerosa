@@ -12,11 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other                39 hrs 1 min    ███████████████████░░░░░░   76.00 %
-Java                 7 hrs 37 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.84 %
-Markdown             1 hr 13 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-Java Properties      1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
-Maven POM            38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Other                40 hrs 52 mins  ███████████████████░░░░░░   75.98 %
+Java                 8 hrs 39 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.08 %
+Java Properties      55 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+Markdown             47 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+Maven POM            38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
 
 <!--END_SECTION:waka-->
