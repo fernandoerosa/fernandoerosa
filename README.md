@@ -11,9 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other        6 hrs 9 mins    █████████████████████████   99.71 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Other   18 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
